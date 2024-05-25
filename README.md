@@ -11,7 +11,7 @@ To begin using the application, make sure to have MetaMask installed on the brow
 
 ## Codes
 
-The JavaScript Code and Solidity Codes can be found on contracts/Assessment.sol for the Assessment solidity contract file and pages/index.js for the JavaScript Frontend codes
+The Updated JavaScript Code and Solidity Codes can be found on contracts/Assessment.sol for the Assessment solidity contract file and pages/index.js for the JavaScript Frontend codes
 
 ## Additional Information
 
