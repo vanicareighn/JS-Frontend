@@ -1,5 +1,5 @@
 # JS-Frontend
-ETH Intermediate Module 2 - MetaMask JavaScript FrontEnd
+ETH Intermediate Module 2 - MetaMask JavaScript FrontEnd with Solidity Contract
 
 ## Description
 
